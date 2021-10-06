@@ -1,0 +1,85 @@
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\ShopBridge.exe
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\ShopBridge.deps.json
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\ShopBridge.runtimeconfig.json
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\ShopBridge.runtimeconfig.dev.json
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\ShopBridge.dll
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\ShopBridge.pdb
+D:\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.csproj.AssemblyReference.cache
+D:\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.AssemblyInfoInputs.cache
+D:\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.AssemblyInfo.cs
+D:\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.csproj.CoreCompileInputs.cache
+D:\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.MvcApplicationPartsAssemblyInfo.cache
+D:\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\staticwebassets\ShopBridge.StaticWebAssets.Manifest.cache
+D:\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\staticwebassets\ShopBridge.StaticWebAssets.xml
+D:\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\scopedcss\bundle\ShopBridge.styles.css
+D:\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.RazorTargetAssemblyInfo.cache
+D:\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.dll
+D:\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.pdb
+D:\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.genruntimeconfig.cache
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.csproj.CopyComplete
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\appsettings.json
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\ShopBridge.exe
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\ShopBridge.deps.json
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\ShopBridge.runtimeconfig.json
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\ShopBridge.runtimeconfig.dev.json
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\ShopBridge.dll
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\ShopBridge.pdb
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\New folder\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.csproj.AssemblyReference.cache
+D:\New folder\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.AssemblyInfoInputs.cache
+D:\New folder\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.AssemblyInfo.cs
+D:\New folder\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.csproj.CoreCompileInputs.cache
+D:\New folder\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\staticwebassets\ShopBridge.StaticWebAssets.Manifest.cache
+D:\New folder\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\staticwebassets\ShopBridge.StaticWebAssets.xml
+D:\New folder\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\scopedcss\bundle\ShopBridge.styles.css
+D:\New folder\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.RazorTargetAssemblyInfo.cache
+D:\New folder\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.csproj.CopyComplete
+D:\New folder\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.dll
+D:\New folder\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.pdb
+D:\New folder\ShopBridge\ShopBridge\obj\Debug\netcoreapp3.1\ShopBridge.genruntimeconfig.cache
+D:\New folder\ShopBridge\ShopBridge\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

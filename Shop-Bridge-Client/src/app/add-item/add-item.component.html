@@ -1,0 +1,18 @@
+<h3>{{pageTitle}}</h3>
+<hr/>
+<div class="row">
+    <div class="col-md-4">
+    <form>
+        <div style="margin-top: 10px; margin-left: 10px;">
+            <input placeholder="Enter Product Name" [(ngModel)]="product.name" [ngModelOptions]="{standalone: true}"/>
+        </div>
+        <div style="margin-top: 10px;margin-left: 10px;">
+            <input placeholder="Enter Product Description"[(ngModel)]="product.description" [ngModelOptions]="{standalone: true}">
+        </div>
+        <div style="margin-top: 10px; margin-left: 10px;">        
+            <input placeholder="Enter Product Price" [(ngModel)]="product.price" [ngModelOptions]="{standalone: true}"/>
+        </div>
+        <div style="margin-top: 10px; margin-left: 10px;"><button class="btn btn-primary" type="submit" (click)="save()">Save</button></div>
+      </form>
+    </div>
+</div>

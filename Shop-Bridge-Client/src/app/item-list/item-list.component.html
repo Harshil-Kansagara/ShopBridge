@@ -1,0 +1,83 @@
+<div class="text-center">
+<h3>Item List</h3>
+    <div class="row" style="margin-top:30px">
+        <table class="table loan-list table-bordered mb-0">
+            <tr class="title-row">
+              <th class="width-150" scope="col">
+                Item Id
+              </th>
+              <th class="width-150" scope="col">
+                Item Name
+              </th>
+              <th class="width-150" scope="col">
+                Item Price
+              </th>
+              <th class="width-150" scope="col">
+                Item Description
+              </th>
+              <th class="width-104" scope="col"></th>
+              <th class="width-104" scope="col"></th>
+            </tr>
+            <tr class="filter-row">
+              <th scope="col">
+              </th>
+              <th scope="col" class="width-150">
+                <div class="search-block position-relative">
+                  <input type="text" name="name" placeholder="Search By Item Name" class="form-control" (ngModelChange)="searchItemName($event)" [(ngModel)]="filterItemName">
+                  <span *ngIf="filterItemName" class="clear-all" (click)="searchItemName('')">×</span>
+                </div>
+              </th>
+              <th scope="col">
+                <div class="search-block position-relative">
+                  <input type="text" name="price" placeholder="Search By Item Price" class="form-control" (ngModelChange)="searchItemPrice($event)" [(ngModel)]="filterItemPrice">
+                  <span *ngIf="filterItemPrice" class="clear-all" (click)="searchItemPrice('')">×</span>
+                </div>
+              </th>
+            </tr>
+            <ng-container *ngIf="products.length !== 0">
+              <tr *ngFor="let product of products">
+                <td>{{product.id}}</td>
+                <td>{{product.name}}</td>
+                <td>{{product.price}}</td>
+                <td>{{product.description}}</td>
+                <td><a class="btn btn-primary" routerLink="." (click)="updateItem(product)" routerLinkActive="active">Update</a></td>
+                <td><a class="btn btn-danger" routerLink="." (click)="deleteItem(product)" routerLinkActive="active">Delete</a></td>
+              </tr>
+            </ng-container>
+          </table>
+    </div>
+    <div *ngIf="totalItemsCount === 0" class="no-data text-center d-flex align-items-center justify-content-center">
+        <h2>No records Found!</h2>
+      </div>
+    <!-- Pagination -->
+    <div class="col-12" *ngIf="totalItemsCount > 0">
+      <div class="default-card table-pagination mt-10">
+        <div class="d-sm-flex align-items-center justify-content-between">
+          <div *ngIf="totalItemsCount">
+            <pagination [customPreviousTemplate]="prevTemplate" [customNextTemplate]="nextTemplate" [totalItems]="totalItemsCount" [(ngModel)]="activePageNumber" [itemsPerPage]="perPageRecordCount" [maxSize]="maxNumbersOfPagesToShow" (pageChanged)="pageChanged($event)"></pagination>
+            <ng-template #prevTemplate let-disabled="disabled" let-currentPage="currentPage">
+              <em class="zmdi zmdi-chevron-left" [class.disabled]="disabled">Previous</em>
+            </ng-template>
+            <ng-template #nextTemplate let-disabled="disabled" let-currentPage="currentPage">
+              <em class="zmdi zmdi-chevron-right" [class.disabled]="disabled">Next</em>
+            </ng-template>
+          </div>
+          <div class="d-sm-flex align-items-center">
+            <div class="items-list d-flex align-items-center">
+              <select class="form-control page-count" name="pageCount" (ngModelChange)="selectPerPageRecordCount($event)" [(ngModel)]="perPageRecordCount">
+                <option value="10">10 items per page</option>
+                <option value="15">15 items per page</option>
+                <option value="20">20 items per page</option>
+              </select>
+              <em class="zmdi zmdi-caret-down float-right"></em>
+            </div>
+            <p class="page-number mb-0 ml-sm-3">Showing {{recordSkip + 1}} - {{recordSkip + products.length}} of {{totalItemsCount}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Pagination -->
+    <div>
+        <a style="margin-top:10px" class="btn btn-primary" (click)="addItem()">Add New Item</a>
+    </div>
+  </div>
